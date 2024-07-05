@@ -1,1 +1,2 @@
 # type_writter
+The Type Master project is a web-based typing speed and accuracy game designed to enhance users' typing skills. Implemented using HTML, CSS, and JavaScript, it offers interactive typing exercises with real-time feedback on speed and errors. Features include customizable difficulty levels, timed sessions, and performance metrics to track progress over time. The project emphasizes user engagement through a responsive design that adapts to various screen sizes, making it accessible for learners of all ages.
